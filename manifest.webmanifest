@@ -1,0 +1,19 @@
+{
+  "name": "JOY EXTREME WF Sales",
+  "short_name": "WF Sales",
+  "description": "JOY EXTREME 商品扫码、销售与本机库存记录",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f5f3",
+  "theme_color": "#111111",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
