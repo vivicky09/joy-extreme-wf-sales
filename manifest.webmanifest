@@ -1,7 +1,7 @@
 {
   "name": "JOY EXTREME WF Sales",
   "short_name": "WF Sales",
-  "description": "JOY EXTREME 商品扫码、销售与本机库存记录",
+  "description": "JOY EXTREME 展会扫码销售与多人共享库存",
   "id": "./",
   "start_url": "./",
   "scope": "./",
